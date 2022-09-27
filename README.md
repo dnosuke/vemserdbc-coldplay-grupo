@@ -4,4 +4,3 @@
 # VemSerDBC-Marcus
 
 # VemserDBC-Renan
->>>>>>> feature/Renan
